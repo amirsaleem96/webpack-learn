@@ -1,0 +1,14 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "learning webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Amir Saleem",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.1.1"
+  }
+}
